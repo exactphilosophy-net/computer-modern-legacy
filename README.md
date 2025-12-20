@@ -1,4 +1,4 @@
-# Computer Modern Legacy
+![Computer Modern Legacy](computer-modern-legacy-velocybird.jpg)
 
 Computer Modern Legacy - An OpenType Computer Modern font family
 
