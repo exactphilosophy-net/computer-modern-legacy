@@ -64,7 +64,8 @@ accent ‘ă’ as used in Romanian and Vietnamese.
 If you are interested in details regarding fonts similar to Computer Modern,
 maybe this
 [tex.stackexchange.com question](https://tex.stackexchange.com/questions/757140/evolution-of-computer-modern-or-who-lowered-the-dot-on-the-i)
-of mine could be an interesting first stop.
+of mine could be an interesting first stop,
+and it is also what lead my to start this here.
 
 **Will math also be supported?**
 
