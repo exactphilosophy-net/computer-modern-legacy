@@ -98,6 +98,16 @@ doing it in a way that reproduces the original look and feel
 out-of-the-box requires to do a number of settings,
 like telling TeX which font file to use for which font size, for example.
 
+**How will it be implemented?**
+
+Not sure yet, but I am eyeing
+[fontTools](https://github.com/fonttools/fonttools)
+written in Python.
+
+(If possible, would be nice to do it using [Lua](https://www.lua.org)
+in the context of LuaTeX, but I am not sure if that is possible and
+whether that would be as robust as desired, except Lua itself, of course.)
+
 **Who are you and why are you doing this?**
 
 I am a Swiss physicist (*1966 in Zürich)
